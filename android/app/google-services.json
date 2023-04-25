@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84497172520",
+    "project_id": "web-rtc-adedb",
+    "storage_bucket": "web-rtc-adedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84497172520:android:ba784aa8393a4cf347cd1d",
+        "android_client_info": {
+          "package_name": "com.example.web_rtc_implementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84497172520-586aloq5t386hevmu4hgj35opmamcklj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Qc3HSHvSrnlfc6WTEQ2BxAjNjLawVwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84497172520-586aloq5t386hevmu4hgj35opmamcklj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
